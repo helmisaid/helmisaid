@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50"/> </a> <a href="https://javascript.info/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="50" height="50"/> </a>
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/Hg4jUD7qrYMAAAAC/hack-the-planet-hacker-cat.gif">
+
 ## Tech Stack
 **Frameworks and Libraries**: Laravel, Next.js, React, Tailwind CSS, Bootstrap
 
