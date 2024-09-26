@@ -1,5 +1,5 @@
-### Hi there 👋
-# My name is Helmi Sa'id Hidayatulloh, I'm a student at Airlangga University, Especially majoring on Informatics Engineering😀
+# Hi there 👋
+### My name is Helmi Sa'id Hidayatulloh, I'm a student at Airlangga University, Especially majoring on Informatics Engineering😀
 
 <!--
 **helmisaid/helmisaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
