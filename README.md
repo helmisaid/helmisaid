@@ -8,9 +8,9 @@ Especially majoring on Informatics Engineering -👨‍💻
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning to enhance my coding skill 
-- 📫 How to reach me: <a href="mailto:saidkun219@gmail.com">saidkun219@gmail.com</a>  
-- 😄 Pronouns: Helmi  
-- ⚡ Fun fact: Im a fast learner.
+- 📫 How to reach me: send me a message by <a href="mailto:saidkun219@gmail.com">saidkun219@gmail.com</a>  
+- 😄 Pronouns: Helmi | Him
+- ⚡ Fun fact: I'm a faast learner
 
 
 
