@@ -1,4 +1,4 @@
-# Hi there 👋
+# -- Hello World 👋
 My name is **Helmi Sa'id Hidayatulloh**, I'm a student at Airlangga University. 
 Especially majoring on Informatics Engineering -👨‍💻
 
